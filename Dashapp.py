@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1mEsRa6I5FUyL9LD2H1piDE0s4QSMjywe
 """
 
-pip install dash
-
-pip install dash-bootstrap-components
-
 import dash
 from dash import dcc, html
 import dash_bootstrap_components as dbc
